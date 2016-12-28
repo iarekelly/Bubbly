@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "227379637926",
+    "project_id": "firebase-bubbly"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227379637926:android:902b6e1cf1b57ecc",
+        "android_client_info": {
+          "package_name": "com.example.kelly.bubbly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbPJFesHepjShNEVBJcfWxoyV8lvn5vvs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
